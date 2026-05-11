@@ -1,0 +1,1 @@
+{"version":3,"file":"appointment.entity.js","sourceRoot":"","sources":["../../../src/domain/entities/appointment.entity.ts"],"names":[],"mappings":";;;AAKA,gEAA+E;AAE/E,MAAa,iBAAiB;IAA9B;QAOE,SAAI,GAAoB,kCAAe,CAAC,OAAO,CAAC;QAChD,WAAM,GAAsB,oCAAiB,CAAC,SAAS,CAAC;QAExD,UAAK,GAAW,EAAE,CAAC;QACnB,SAAI,GAAW,EAAE,CAAC;IAGpB,CAAC;CAAA;AAdD,8CAcC"}

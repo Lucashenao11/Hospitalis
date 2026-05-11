@@ -1,0 +1,1 @@
+{"version":3,"file":"medical-record.entity.js","sourceRoot":"","sources":["../../../src/domain/entities/medical-record.entity.ts"],"names":[],"mappings":";;;AAKA,sEAAwE;AAExE,MAAa,mBAAmB;IAAhC;QAME,WAAM,GAAiB,kCAAY,CAAC,MAAM,CAAC;QAoB3C,gBAAW,GAAa,EAAE,CAAC;QAC3B,eAAU,GAAS,IAAI,IAAI,EAAE,CAAC;QAC9B,UAAK,GAAW,EAAE,CAAC;QACnB,SAAI,GAAa,EAAE,CAAC;IAGtB,CAAC;CAAA;AAhCD,kDAgCC"}
